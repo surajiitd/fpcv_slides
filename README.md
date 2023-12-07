@@ -6,7 +6,7 @@
 - The code uses **OpenCV's Background Subtraction** algorighm to detect the change in the frame.
 - I have modified to work it with [Prof. Shree K. Nayar's Youtube lectures](https://www.youtube.com/@firstprinciplesofcomputerv3258).
 - This project converts a video presentation into a deck of pdf slides by capturing screenshots of unique frames.
-Note: I have compressed the pdfs slides at the end using some online tool.
+Note: Before uploading the slides' PDFs to this repository, I compressed them using some online tool.
 
 ---
 ## Steps to run the code
